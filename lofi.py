@@ -31,7 +31,7 @@
 # t=3.14*r*r*h
 # print(t)
 
-c=float(input("width"))
-f=float(input("long"))
-k=c*f
-print(k)
+# c=float(input("width"))   //หาพื้นที่สี่เหลี่ยมผืนผ้า
+# f=float(input("long"))
+# k=c*f
+# print(k)
