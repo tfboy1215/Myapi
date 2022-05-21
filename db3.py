@@ -9,7 +9,7 @@ mydb = mysql.connector.connect(
 
 mycursor = mydb.cursor(dictionary=True)
 
-sql = "UPDATE users SET name = 'nono', last_name = 'toto'  WHERE ID = 3"
+sql = "UPDATE users SET name = 'uu', last_name = 'ss'  WHERE ID = 3"
 
 mycursor.execute(sql)
 
